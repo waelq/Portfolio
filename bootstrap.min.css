@@ -9493,8 +9493,7 @@ a.text-dark:hover {
 }
 #content {
   text-align: center;
-  margin-top: 25%;
-  margin-bottom: 5%;
+  margin: 25% 0 5% 0;
   font-family: "Lato", sans-serif;
 }
 .landing {
@@ -9537,23 +9536,20 @@ a.text-dark:hover {
 }
 
 #projects {
-  margin-top: 5%;
-  margin-bottom: 10%;
+  margin: 5% 0 10% 0;
 }
 .contact {
   margin-top: 5% !important;
 }
 .services {
-  margin-bottom: 5% !important;
-  margin-top: 5% !important;
+  margin: 5% 0 5% 0 !important;
 }
 .imgPro {
   height: 250px;
 }
 .app {
   font-size: 1.4em;
-  margin-top: 2%;
-  margin-bottom: 2%;
+  margin: 2% 0 2% 0;
 }
 .des {
   font-size: 1.1em;
